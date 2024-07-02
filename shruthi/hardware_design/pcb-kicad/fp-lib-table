@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Shruthi-Analog-SMR4-mkII-v02")(type "KiCad")(uri "$(KIPRJMOD)/Shruthi-Analog-SMR4-mkII-v02.pretty")(options "")(descr ""))
+  (lib (name "Shruthi-Digital-v08_midnight")(type "KiCad")(uri "$(KIPRJMOD)/Shruthi-Digital-v08_midnight.pretty")(options "")(descr ""))
+)

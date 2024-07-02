@@ -1,0 +1,223 @@
+(footprint "E2,5-6"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "ELECTROLYTIC CAPACITOR\n\ngrid 2.54 mm, diameter 6 mm")
+	(property "Reference" "REF**"
+		(at 2.667 -1.524 0)
+		(layer "F.SilkS")
+		(uuid "a6d29e05-447e-4b06-9b79-b450524eb81c")
+		(effects
+			(font
+				(size 1.143 1.143)
+				(thickness 0.127)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "E2,5-6"
+		(at 2.667 2.667 0)
+		(layer "F.Fab")
+		(uuid "1efce968-d64c-4eae-96bc-d2ef5aff00cf")
+		(effects
+			(font
+				(size 1.143 1.143)
+				(thickness 0.127)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2933f2e5-6998-436a-ac83-8df6a3311486")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "19de5c47-6ac8-44bc-b55a-d7c6fbcae2fd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "639d873c-629d-46c5-8550-5be3d867e19a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -2.032 -1.27)
+		(end -1.651 -1.27)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d4ed98be-1623-4151-b531-f25560dc23b5")
+	)
+	(fp_line
+		(start -1.651 -1.27)
+		(end -1.651 -1.651)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c9fe44e3-58c1-4aed-a02a-317c60ec94dc")
+	)
+	(fp_line
+		(start -1.651 -1.27)
+		(end -1.27 -1.27)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dd7a6a13-14bc-455f-82a5-044850d4d9d5")
+	)
+	(fp_line
+		(start -1.651 -0.889)
+		(end -1.651 -1.27)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "567e4adc-0d98-415a-8a02-02188e3645cd")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 2.794 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "1d6bcd47-ea56-41b8-9323-f0298d9ee7db")
+	)
+	(fp_line
+		(start -1.651 0)
+		(end -0.762 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "951e6495-daf5-469a-9fd8-720e0e934dfb")
+	)
+	(fp_line
+		(start -0.762 -1.27)
+		(end -0.762 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ccc55863-4303-4ac0-a0f5-c42103519086")
+	)
+	(fp_line
+		(start -0.762 0)
+		(end -0.762 1.27)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b705fd52-13ba-483d-86c4-b7dc47b489e6")
+	)
+	(fp_line
+		(start -0.762 1.27)
+		(end -0.254 1.27)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "be15ae25-c868-4d42-8508-f565d5dfb43e")
+	)
+	(fp_line
+		(start -0.254 -1.27)
+		(end -0.762 -1.27)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bf058d12-b8d1-4b3c-93bf-0c121c313c3e")
+	)
+	(fp_line
+		(start -0.254 1.27)
+		(end -0.254 -1.27)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "af09d5fb-736d-4b6e-859f-a872fc34d9cf")
+	)
+	(fp_line
+		(start 0.635 0)
+		(end 1.651 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b23c95a3-9f2b-490d-9e2c-f82a064d6165")
+	)
+	(fp_poly
+		(pts
+			(xy 0.254 1.27) (xy 0.762 1.27) (xy 0.762 -1.27) (xy 0.254 -1.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Fab")
+		(uuid "af19761d-9970-489b-93fd-8c5a61defe91")
+	)
+	(pad "+" thru_hole circle
+		(at -1.27 0)
+		(size 1.6002 1.6002)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "9fbaa798-2cde-4167-831b-697d1dd6e5f3")
+	)
+	(pad "-" thru_hole roundrect
+		(at 1.27 0)
+		(size 1.6002 1.6002)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(chamfer_ratio 0.2928932188)
+		(chamfer top_left top_right bottom_left bottom_right)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "be9ffa1c-4a6c-455b-8b06-3a1c24d0b308")
+	)
+)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Shruthi-Analog-SMR4-mkII-v02-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Shruthi-Analog-SMR4-mkII-v02-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Shruthi-Digital-v08_midnight-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Shruthi-Digital-v08_midnight-eagle-import.kicad_sym")(options "")(descr ""))
+)
